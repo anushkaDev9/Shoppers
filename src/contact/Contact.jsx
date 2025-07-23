@@ -15,7 +15,7 @@ const Contact = () => {
   54709 Willms Station<br/>Suite 350, Washington, USA
 </p>
  <p className='text-gray-500 text-lg text-left'>
-  Tel: (415) 555-0132<br/>Email: admin@forever.com
+  Tel: (415) 555-0132<br/>Email: admin@shoppers.com
 </p>
     <p className='font-semibold text-xl text-gray-600'>Careers at Shoppers</p>    
     <p className='text-gray-500 text-lg text-left'>
